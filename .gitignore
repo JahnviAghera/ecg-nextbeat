@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+.ipynb_checkpoints/
+# Raw MIT-BIH signal data is not redistributed here — see README.
+data/
+*.dat
+*.hea
+*.atr
+*.xws
